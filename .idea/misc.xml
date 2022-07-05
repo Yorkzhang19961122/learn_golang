@@ -8,8 +8,12 @@
           <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/02-variable/float.go" />
         </OpenedFileInfo>
         <OpenedFileInfo>
-          <option name="caretOffset" value="0" />
+          <option name="caretOffset" value="595" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/02-variable/char.go" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/02-variable/string.go" />
         </OpenedFileInfo>
       </list>
     </option>
