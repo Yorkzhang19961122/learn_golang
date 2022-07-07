@@ -4,24 +4,12 @@
     <option name="openedFilesInfos">
       <list>
         <OpenedFileInfo>
-          <option name="caretOffset" value="281" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/02-variable/float.go" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="595" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/02-variable/char.go" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="1166" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/02-variable/string.go" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
           <option name="caretOffset" value="0" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/02-variable/range&amp;type.go" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/README.md" />
         </OpenedFileInfo>
         <OpenedFileInfo>
-          <option name="caretOffset" value="78" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/02-variable/transfer_type.go" />
+          <option name="caretOffset" value="820" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/02-variable/base_type_transfer_to_string.go" />
         </OpenedFileInfo>
       </list>
     </option>
