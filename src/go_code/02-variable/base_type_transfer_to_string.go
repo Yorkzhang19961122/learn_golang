@@ -46,4 +46,10 @@ func main() {
 	//str8 = strconv.FormatInt(int64(n4), 10)
 	//fmt.Printf("str8 type = %T, str8 = %q\n", str8, str8)
 
+	// strconv包中还有一个函数itoa()
+	var str string
+	var num int = 4567
+	str = strconv.Itoa(num)
+	fmt.Printf("str type = %T, str = %q\n", str, str)
+
 }

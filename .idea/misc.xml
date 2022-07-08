@@ -4,12 +4,8 @@
     <option name="openedFilesInfos">
       <list>
         <OpenedFileInfo>
-          <option name="caretOffset" value="0" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/README.md" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="820" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/02-variable/base_type_transfer_to_string.go" />
+          <option name="caretOffset" value="29" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/02-variable/string_transfer_to_base_type.go" />
         </OpenedFileInfo>
       </list>
     </option>
