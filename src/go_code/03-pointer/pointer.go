@@ -17,4 +17,7 @@ func main() {
 	// 获取指针指向的值，使用星号*
 	fmt.Printf("ptr指向的值 = %v\n", *ptr)
 
+	var huashi float32 = 134.2
+	var sheshi float32 = 5 / 9.0 * (huashi - 100)
+	fmt.Printf("sheshi = %v\n", sheshi)
 }
