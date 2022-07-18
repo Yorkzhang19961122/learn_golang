@@ -8,12 +8,20 @@
           <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/02-variable/string_transfer_to_base_type.go" />
         </OpenedFileInfo>
         <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/README.md" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
           <option name="caretOffset" value="99" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/03-pointer/pointer.go" />
         </OpenedFileInfo>
         <OpenedFileInfo>
-          <option name="caretOffset" value="354" />
+          <option name="caretOffset" value="100" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/04-keyboard_input/keyboard_input.go" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/05-system_of_numeration /system_of_numeration.go" />
         </OpenedFileInfo>
       </list>
     </option>
