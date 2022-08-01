@@ -12,16 +12,12 @@
           <option name="fileUrl" value="file://$PROJECT_DIR$/README.md" />
         </OpenedFileInfo>
         <OpenedFileInfo>
-          <option name="caretOffset" value="99" />
+          <option name="caretOffset" value="311" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/03-pointer/pointer.go" />
         </OpenedFileInfo>
         <OpenedFileInfo>
-          <option name="caretOffset" value="100" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/04-keyboard_input/keyboard_input.go" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="0" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/05-system_of_numeration /system_of_numeration.go" />
+          <option name="caretOffset" value="109" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/go_code/06-switch/switch.go" />
         </OpenedFileInfo>
       </list>
     </option>
