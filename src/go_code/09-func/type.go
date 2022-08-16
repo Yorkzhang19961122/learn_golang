@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 // 自定义数据类型的使用：type
+
 func getSum2(n1 int, n2 int) int {
 	return n1 + n2
 }
